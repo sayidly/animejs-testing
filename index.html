@@ -37,20 +37,28 @@
   }
   </style>
   <link rel="stylesheet" href="/stylesheets/main.css">
-  <script src="anime.min.js"></script>
+  <script src="scripts/anime.min.js"></script>
 </head>
 
 <body>
   <h1>HTML Template</h1>
-  <div class="el"></div>
+  <div id="clickArea" class="demo active">
+    <div id="itemID" class="item el"></div>
+  </div>
+  <div id="clickArea" class="demo">
+    <div id="itemID" class="item el"></div>
+  </div>
   <style>
     .el {
       height: 100px;
       width: 100px;
       background-color: #ccc;
     }
+    .active {
+      background-color: #555;
+    }
   </style>
-  <script src="script.js"></script>
+  <script src="scripts/script.js"></script>
 </body>
 
 </html>
