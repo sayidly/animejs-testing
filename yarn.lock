@@ -3286,8 +3286,9 @@ jasmine-core@~2.4.0:
   resolved "https://registry.yarnpkg.com/jasmine-core/-/jasmine-core-2.4.1.tgz#6f83ab3a0f16951722ce07d206c773d57cc838be"
   integrity sha1-b4OrOg8WlRcizgfSBsdz1XzIOL4=
 
-"jasmine@github:dflynn15/jasmine-npm":
+jasmine@dflynn15/jasmine-npm:
   version "2.4.1"
+  uid "5f74e4336b247e67bbc509a8f82f3c4fa6b52964"
   resolved "https://codeload.github.com/dflynn15/jasmine-npm/tar.gz/5f74e4336b247e67bbc509a8f82f3c4fa6b52964"
   dependencies:
     exit "^0.1.2"
@@ -3603,9 +3604,9 @@ lodash.templatesettings@^4.0.0:
     lodash._reinterpolate "^3.0.0"
 
 lodash@^4.0.0, lodash@^4.17.10, lodash@^4.17.11, lodash@^4.3.0, lodash@~4.17.10:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 logalot@^2.0.0:
   version "2.1.0"
