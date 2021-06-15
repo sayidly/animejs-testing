@@ -3286,8 +3286,9 @@ jasmine-core@~2.4.0:
   resolved "https://registry.yarnpkg.com/jasmine-core/-/jasmine-core-2.4.1.tgz#6f83ab3a0f16951722ce07d206c773d57cc838be"
   integrity sha1-b4OrOg8WlRcizgfSBsdz1XzIOL4=
 
-"jasmine@github:dflynn15/jasmine-npm":
+jasmine@dflynn15/jasmine-npm:
   version "2.4.1"
+  uid "5f74e4336b247e67bbc509a8f82f3c4fa6b52964"
   resolved "https://codeload.github.com/dflynn15/jasmine-npm/tar.gz/5f74e4336b247e67bbc509a8f82f3c4fa6b52964"
   dependencies:
     exit "^0.1.2"
@@ -4602,9 +4603,9 @@ postcss-value-parser@^4.0.2:
   integrity sha512-LmeoohTpp/K4UiyQCwuGWlONxXamGzCMtFxLq4W1nZVGIQLYvMCJx3yAF9qyyuFpflABI9yVdtJAqbihOsCsJQ==
 
 postcss@^7.0.18, postcss@^7.0.2:
-  version "7.0.18"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.18.tgz#4b9cda95ae6c069c67a4d933029eddd4838ac233"
-  integrity sha512-/7g1QXXgegpF+9GJj4iN7ChGF40sYuGYJ8WZu8DZWnmhQ/G36hfdk3q9LBJmoK+lZ+yzZ5KYpOoxq7LF1BxE8g==
+  version "7.0.36"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.36.tgz#056f8cffa939662a8f5905950c07d5285644dfcb"
+  integrity sha512-BebJSIUMwJHRH0HAQoxN4u1CN86glsrwsW0q7T+/m44eXOUAxSNdHRkNZPYz5vVUbg17hFgOQDE7fZk7li3pZw==
   dependencies:
     chalk "^2.4.2"
     source-map "^0.6.1"
